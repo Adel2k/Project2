@@ -150,7 +150,7 @@ Setting the SUID permission on `/usr/bin/python` is unusual and potentially risk
 
 here is a usefull site for gtfobins: `https://gtfobins.github.io/`
 
-![alt text](image.png)
+![alt text](images/t.png)
 
 ```bash
 	python -c 'print(open("file_to_read").read())'
@@ -159,7 +159,8 @@ here is a usefull site for gtfobins: `https://gtfobins.github.io/`
 ![alt text](images/r.png)
 
 
-- **Conclusion**
+## Conclusion
+
 
 This Root Me CTF walkthrough offers a step-by-step guide for beginners to engage with TryHackMe’s machine, starting from connecting to the network via OpenVPN to performing tasks such as scanning with Nmap, brute-forcing directories with GoBuster, and uploading a reverse shell for remote access.
 
