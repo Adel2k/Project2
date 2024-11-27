@@ -25,7 +25,7 @@ Connecting with ``Linux``:
         sudo openvpn /path-to-file/file-name.ovpn
     ```
 
-4. And that's it! You should be successfully connected.
+4. If you see the "Initialization successfully completed" that's it! You should be successfully connected.
 
 
 ![setup](images/vpn.png)
